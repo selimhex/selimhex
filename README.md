@@ -1,6 +1,6 @@
 <!--1. ### Hi there 👋-->
 
-_hi_![how i been lookin lately](https://dev.szmx.dev/hi/card.svg) _there_, welcome to my hOempage
+_hi_![how i been lookin lately](https://szmx.dev/hi/card.svg) _there_, welcome to my hOempage
 
 ![marqueeeeee](https://dev.szmx.dev/hi/marquee.svelte)
 ![loopy](https://dev.szmx.dev/hi/loop.svelte)
